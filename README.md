@@ -13,5 +13,5 @@ The problem: using short, noisey,  audio clips recorded in 6 locations
 - 1. Classify background noise as being recorded indoor or outdoors
 - 2. During model selection and training, as much as possible, reduce the difference in False Postitives between classes
 
-The projects goal was not to maximise accuracy but to demonstrate methodology in feature enginnering and model selection and training. 
-We were given no resources or training in working with audio signals before hand, so the project also encouraged independent exploration of feature engineering techniques and model trainning.
+The projects goal was not to maximise accuracy but to demonstrate methodology in feature enginnering, model selection and model training. 
+We were given no resources or special training in working with audio signals before hand, so the project encouraged independent exploration of feature engineering techniques and model training.
